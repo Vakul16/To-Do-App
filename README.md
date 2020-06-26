@@ -1,6 +1,8 @@
 # To-Do-App-in-React-code
 
-# Using Reactjs
+## Technologies Used 
+
+Reactjs
 
 ## Commands used to install Font awesome:
 
